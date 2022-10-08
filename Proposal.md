@@ -7,7 +7,7 @@ perfusion of the tissue, and based on these changes heart-related information ca
 PPGs can be obtained from transmissive absorption (as at the fingertip) or reflection (as on the forehead).
 
 <p align="center">
-  <img width="600" height="400" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PPG.PNG">
+  <img width="500" height="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PPG.PNG">
 </p>
 
 
