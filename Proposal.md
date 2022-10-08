@@ -6,6 +6,8 @@ PPG stands for photoplethysmogram. IT can be used to detect blood volume changes
 perfusion of the tissue, and based on these changes heart-related information can be retrieved.
 PPGs can be obtained from transmissive absorption (as at the fingertip) or reflection (as on the forehead).
 
+![PPG](https://user-images.githubusercontent.com/106872029/194720752-5c556274-f703-45dc-bf5a-8fb908385ee6.png)
+
 ## Current Status of PPG in HRMAA:
 
 Currently, PPG is implemented by using an open source repository called HeartBeat. This project uses a deprecated version of Camera API and is written in Java.
