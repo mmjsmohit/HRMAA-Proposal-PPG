@@ -6,7 +6,9 @@ PPG stands for photoplethysmogram. IT can be used to detect blood volume changes
 perfusion of the tissue, and based on these changes heart-related information can be retrieved.
 PPGs can be obtained from transmissive absorption (as at the fingertip) or reflection (as on the forehead).
 
-![PPG](https://user-images.githubusercontent.com/106872029/194720886-5c183806-c6bf-4738-b7a1-3d7c71e8a6df.png)
+<p align="center">
+  <src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/106872029/194720886-5c183806-c6bf-4738-b7a1-3d7c71e8a6df.png)">
+</p>
 
 
 ## Current Status of PPG in HRMAA:
