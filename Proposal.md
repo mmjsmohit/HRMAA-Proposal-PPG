@@ -10,6 +10,10 @@ PPGs can be obtained from transmissive absorption (as at the fingertip) or refle
   <img width="500" height="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PPG.PNG">
 </p>
 
+<p align = "center">
+Representative PPG taken from an ear pulse oximeter.
+</p>
+
 
 ## Current Status of PPG in HRMAA:
 
