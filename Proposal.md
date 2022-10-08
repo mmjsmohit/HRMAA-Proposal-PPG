@@ -4,16 +4,14 @@
 
 PPG stands for photoplethysmogram. IT can be used to detect blood volume changes in the microvascular bed of tissue.The volume changes are detected by first illuminating the tissues through a light source (such as an LED), and then capturing the reflected light, and then analyzing it. The variations in the light intensity are related to changes in the blood
 perfusion of the tissue, and based on these changes heart-related information can be retrieved.
-PPGs can be obtained from transmissive absorption (as at the fingertip) or reflection (as on the forehead).
-
+PPGs can be obtained from transmissive absorption (as at the fingertip) or reflection (as on the forehead). <br /><br />
 
 <p align="center">
   <img width="500" height="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PPG.PNG">
 </p>
 <p align = "center">
 Representative PPG taken from an ear pulse oximeter.
-</p>
-
+</p> <br />
 
 ## Current Status of PPG in HRMAA:
 
